@@ -66,4 +66,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{www.ragedev29.com})
+- Website [www.ragedev29.com]
