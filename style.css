@@ -75,7 +75,7 @@ footer{
     bottom: 0;
 }
 
-@media (max-width: 412px) {
+@media (max-width: 414px) {
     .logo-pag{
         font-size: 24px;
     }
